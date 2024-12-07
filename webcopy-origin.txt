@@ -1,0 +1,32 @@
+Uri: https://gisp.gov.ru/5e59173e95f573e749e1ff68.js?1732613944142
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\5e59173e95f573e749e1ff68.js
+Content Type: application/x-javascript
+
+Uri: https://gisp.gov.ru/e532ce7c1e37014ff8fa58574aec6908.gif
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\e532ce7c1e37014ff8fa58574aec6908.gif
+Content Type: image/gif
+
+Uri: https://gisp.gov.ru/gisip/
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\gisip\index.htm
+Content Type: text/html
+
+Uri: https://gisp.gov.ru/gisip/792.f5b275fa.js?ef73a52332461cd2fb11
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\gisip\792.f5b275fa.js
+Content Type: application/javascript
+
+Uri: https://gisp.gov.ru/gisip/index.0707a548.css?ef73a52332461cd2fb11
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\gisip\index.0707a548.css
+Content Type: text/css
+
+Uri: https://gisp.gov.ru/gisip/index.31437c29.js?ef73a52332461cd2fb11
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\gisip\index.31437c29.js
+Content Type: application/javascript
+
+Uri: https://gisp.gov.ru/gisplk/header_distv2/gisp-header.js
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\gisplk\header_distv2\gisp-header.js
+Content Type: application/javascript
+
+Uri: https://gisp.gov.ru/gisplk/header_distv2/styles.css
+File Name: C:\Downloaded Web Sites\gisp.gov.ru\gisplk\header_distv2\styles.css
+Content Type: text/css
+
