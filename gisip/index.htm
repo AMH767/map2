@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="ru">
    <head>
       <meta name='csrf-token-name' content='csrftoken'>
@@ -14,13 +14,22 @@
    </head>
    <body>
       <noscript><img src="../e532ce7c1e37014ff8fa58574aec6908.gif" width="0" height="0" alt=""></noscript>
-     
+
       <div id="app-root" class="app-root"></div>
       <script charset="utf-8" src="../5e59173e95f573e749e1ff68.js?1732613944142"></script>
-      <script>document.addEventListener('DOMContentLoaded', function () {
-         window.run.default('orbismap.gisip.ru', 'oms_gisip_docker', 'atlas');
-         })
-      </script><script defer="defer" src="792.f5b275fa.js?ef73a52332461cd2fb11"></script><script defer="defer" src="index.31437c29.js?ef73a52332461cd2fb11"></script>
+      <script>
+         document.addEventListener('DOMContentLoaded', function () {
+            // Удаление элемента с id="grids"
+            var gridsElement = document.getElementById('grids');
+            if (gridsElement) {
+               gridsElement.remove();
+            }
+
+            window.run.default('orbismap.gisip.ru', 'oms_gisip_docker', 'atlas');
+         });
+      </script>
+      <script defer="defer" src="792.f5b275fa.js?ef73a52332461cd2fb11"></script>
+      <script defer="defer" src="index.31437c29.js?ef73a52332461cd2fb11"></script>
    </body>
    <script defer="defer" src="../gisplk/header_distv2/gisp-header.js"></script>
 </html>
